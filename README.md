@@ -1,0 +1,2 @@
+# Scikit-Learn-Predicting-Political-Orientation
+Multiple classifiers such as Linear Support Vector Machines and Multinomial Naive Bayes were used to predict either a person's preferred US Presidential Candidate 2016 or political party. The data the classifiers were trained on was obtained from comments on various political subreddits on Reddit. Additionally, clustering was utilized to group this corpus of comments into two or three clusters. For any questions, please contact p_anamitra@yahoo.com.
